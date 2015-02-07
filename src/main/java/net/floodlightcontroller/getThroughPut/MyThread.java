@@ -58,6 +58,7 @@ public class MyThread implements Runnable {
     			{
     				System.out.println("There is no congestion issue");
     			}
+    			System.out.println("Testing for git");
     		}
     		
     	}
